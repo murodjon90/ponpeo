@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&family=Libre+Franklin:wght@400;700&family=Pacifico&family=Playfair+Display:ital@1&family=Poppins:wght@400;700&display=swap');
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root{
+  --lato: 'Lato', sans-serif;
+  --libre:'Libre Franklin', sans-serif;
+  --pacifico:'Pacifico', cursive;
+  --playfair: 'Playfair Display', serif;
+  --poppins: 'Poppins', sans-serif;
+}
+
+.line{
+  width: 1px;
+  height: 38px;
+  background: black;
+  display: flex;
+}
+
+.header__link{
+  font-family: var(--poppins);
+  font-size: 12px;
+  color: #6C6C6C;
+}
+
+.header__link_color-black{
+  color: black;
+}
