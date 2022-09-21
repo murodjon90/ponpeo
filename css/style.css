@@ -30,3 +30,37 @@
 .header__link_color-black{
   color: black;
 }
+
+.font-size-68{
+  font-size: 68px;
+}
+.font-size-43{
+  font-size: 43px;
+}
+.font-size-12{
+  font-size: 12px;
+}
+
+.popins{
+  font-family: var(--poppins);
+}
+.libre{
+  font-family: var(--libre);
+}
+.lato{
+  font-family: var(--lato);
+}
+.pacifico{
+  font-family: var(--pacifico);
+}
+.playfair{
+  font-family: var(--playfair);
+}
+
+.murod{
+  height: 100vh;
+  background-image: url(../img/bg.png);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
