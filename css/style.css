@@ -121,6 +121,8 @@
   margin-top: 120px;
   height: 470px;
   background: url(../img/imgg.png);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .intro1 {
@@ -162,10 +164,7 @@
   height: 45px;
 }
 
-.box{
-  position: absolute;
-width: 13px;
-height: 13px;
-left: calc(50% - 13px/2 - 85.5px);
-top: 1.95px;
+
+.intro9 {
+  gap: 10px;
 }
